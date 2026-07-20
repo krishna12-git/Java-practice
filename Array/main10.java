@@ -3,6 +3,7 @@ public class main10 {
 
         int[] numbers = {10,20,30,40,50};
 
+
         int search = 30;
         boolean found = false;
 
